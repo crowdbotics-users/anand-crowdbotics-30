@@ -8,3 +8,4 @@ actionform
 aa_stripe
 15five-django-ajax-selects
 admindjango-ckeditor-blog
+ailove-django-fias
