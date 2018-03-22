@@ -6,6 +6,7 @@ from django.shortcuts import render
 
 def home(request):
     packages = [
+	{'name':'actionform', 'url': 'http://pypi.python.org/pypi/actionform/0.04'},
     ]
     context = {
         'title': 'anand-crowdbotics-30',
